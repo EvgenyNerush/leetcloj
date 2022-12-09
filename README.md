@@ -1,2 +1,2 @@
 # leetcloj
-My solutions of leetcode problems. In Clojure.
+My solutions of the leetcode problems. In Clojure. For my Scala solutions, see [my leetcode profile](https://leetcode.com/EvgenyNr/).
